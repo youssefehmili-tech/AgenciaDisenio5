@@ -1,6 +1,6 @@
 package org.example;
 
-public class Anuncio {
+public class AnuncioTV {
 
     String city;
 }
